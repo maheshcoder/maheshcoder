@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src ="  <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">B-Tech 3rd Year Computer Student</h3>
 
-<img align="right" alt="coding" width="400" src =" https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw2eQZDReORtb9Iw7z6v5uWd&ust=1680947536436000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjU8tm_l_4CFQAAAAAdAAAAABAE "
+<img align="right" alt="coding" width="400" src =" https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw2eQZDReORtb9Iw7z6v5uWd&ust=1680947536436000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjU8tm_l_4CFQAAAAAdAAAAABAE ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshcoder&label=Profile%20views&color=0e75b6&style=flat" alt="maheshcoder" /> </p>
 
