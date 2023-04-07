@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+return DefaultTextStyle(
+  style: const TextStyle(
+    fontSize: 20.0,
+  ),
+  child: AnimatedTextKit(
+    animatedTexts: [
+      WavyAnimatedText('Hello World'),
+      WavyAnimatedText('Look at the waves'),
+    ],
+    isRepeatingAnimation: true,
+    onTap: () {
+      print("Tap Event");
+    },
+  ),
+);
