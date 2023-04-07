@@ -21,3 +21,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+
+Name: S.Maheswar
+located_in: Kakinda,Yanam
+education: ["B-Tech", "Arificial Intellegence "]
+College: Kakinda Institution of Engineering and Technology
+
+fields_of_interests: ["Unity Developer", "Metaverse ", "Software Developer"]
+
+currently_learning: ["Machine Learning ", "VR and AR", "Metaverse"]
+will_learn: ["Web3"]
+hobbies: ["Sudoko", "Music Themes"]
