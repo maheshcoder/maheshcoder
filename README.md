@@ -1,10 +1,7 @@
    ![logo](https://github.com/maheshcoder/maheshcoder/blob/master/Banner-resize.gif)
   
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2CF71A&center=true&vCenter=true&width=435&lines=---------------%3E+Hi+Guys+%2CWelcome+to+My+Profile+;-------------------%3E-%3E+I+am+%2CMahesh;-----------------%3E-%3E-%3E+Always+Read+to+Learn" alt="Typing SVG" /></a>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42FFF7D2&width=435&lines=-----------%3E+I+am%2C+Mahesh;-----%3E-%3E+Always+Ready+to+Learn" alt="Typing SVG" /></a>
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 
 
