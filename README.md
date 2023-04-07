@@ -33,7 +33,17 @@ if(succeed == false){
     party();
 };
 ```
----
+<!-- languages and skills section -->
+
+<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+
+![skills](https://skillicons.dev/icons?i=html,css,azure,wordpress,nodejs,mongodb,postman,py,git,github,vscode&theme=light)
+
+<h1 align="center"> Learning: </h1>
+
+![skills](https://skillicons.dev/icons?i=unity,react,flask)
+
+<h1 align="center"> Environments I work with: </h1>
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 <a href="#-lets-connect"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
