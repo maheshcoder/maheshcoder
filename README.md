@@ -6,31 +6,34 @@
 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 
-Name: S.Maheswar
 
+### About me 
 
-located_in: Kakinda,Yanam
+<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
 
+```js
+document.write("Hello World");
+Developer dev = new Developer(S.Maheswar);
+const Mahesh = {
+    pronouns: "Bro" | "Dude",
+    status: Student,
+    technologies: {
+        frontEnd: [HTML, CSS, React],
+        backEnd: [Node.js, Express.js, Mongoose.js, MongoDB, Python,Flask],
+       
+    },
+    editors: [VS Code,  PyCharm, Colab],
+    learning: [Machine Learning , MetaVerse],
+    contact: maheshcoder999@gmail.com
+};
 
-education: ["B-Tech", "Arificial Intellegence "]
-
-College: Kakinda Institution of Engineering and Technology
-
-
-
-fields_of_interests: ["Unity Developer", "Metaverse ",
-                     "Software Developer"]
-
-
-
-currently_learning: ["Machine Learning ", 
-"VR and AR", "Metaverse"]
-
-
-will_learn: ["Web3"]
-
-
-hobbies: ["Sudoko", "Music Themes"]
+if(succeed == false){
+    tryagain();
+}else{
+    party();
+};
+```
+---
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 <a href="#-lets-connect"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
